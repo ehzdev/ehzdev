@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # 👨‍💻 Edgar Haro — Full Stack Engineer & Tech Innovator  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EdgarHaro-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ehzdev)  
@@ -99,4 +98,3 @@ contact:
 
 quote:
   - "✨ Innovation is not about tools, it’s about mindset."
--->
