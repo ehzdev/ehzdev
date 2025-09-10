@@ -83,5 +83,20 @@ AI/ML:
   - Embeddings
   - RAG
   - Flowise
+```
 
+fun_facts:
+  - "🏍️ Love building solutions with the same energy as riding off-road trails."
+  - "🧩 Problem-solver by nature — I enjoy breaking down complex systems."
+  - "📚 Lifelong learner: self-taught in AI, BI, and automation."
+  - "☕ Coffee-driven coder (don’t deploy without it)."
+  - "📈 GitHub Stats"
+
+contact:
+  - "💌 Email: ehz.dev@gmail.com"
+  - "🔗 LinkedIn: linkedin.com/in/ehzdev"
+  - "🌍 Portfolio: linktr.ee/ehzdev"
+
+quote:
+  - "✨ Innovation is not about tools, it’s about mindset."
 -->
